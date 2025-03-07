@@ -1,4 +1,4 @@
-# Portofolio-v2
+# Porto
 
 ## Project Setup
 Untuk memulai proyek ini, pastikan Anda telah menginstal semua dependency dengan menjalankan perintah berikut:
